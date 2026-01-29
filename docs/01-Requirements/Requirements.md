@@ -11,5 +11,4 @@ The following sections document the requirements that this module needs to fulfi
 | Surface mounted microcontroller | 1 PIC or ESP | 8-bit PIC | No |
 | Light Sensor | Able to sense light and report back to main| Illuminance (lux) | No |
 | Small Motors for Shutter | Able to open and close lens for light control| Open and close the lens | No |
-
 |*The rest are items your modules need to support the task you are covering for the team's device.* | --- | --- | **NO** |
