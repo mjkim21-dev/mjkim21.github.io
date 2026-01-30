@@ -3,7 +3,7 @@ title: Module's Requirements
 ---
 
 ## Camera: Gain and Exposure Requirements
-The following sections document the requirements that this module needs to fulfill to .....
+The following table includes requirements for my part. You can see the team requirements [here](https://egr314-s-2026-304.github.io/03-Project-requirements/).
 
 | **Requirement Description** | **Measure of<br> Threshold** | **Target<br>Measure** |**Stretch<br>Requirement<br>(Y-N)**|
 |-----------------------------| ----------------- | ----------------- | :-----: |
