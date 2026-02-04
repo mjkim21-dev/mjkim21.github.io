@@ -6,19 +6,10 @@ tags:
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
+The block diagram provides a high-level representation of the electrical architecture of the system and how each major subsystem interfaces with the ESP32 microcontroller. It illustrates power distribution, signal flow, and communication interfaces between sensors, actuators, and external connections. By identifying voltage levels, control methods (digital I/O, PWM, I²C), and pin usage, the diagram helps justify component selection and ensures compatibility across the system. Additionally, this block diagram serves as a reference for team integration by clearly indicating how this subsystem connects to other team members’ boards through shared power and digital interfaces.
 
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+To see the team's block diagram and how my block diagram will fit in the ["teams"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/).
 
+## Block Diagram 
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
-
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+![Indivial Block diagram ](BlockMK.png)
